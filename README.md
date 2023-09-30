@@ -21,7 +21,6 @@ I'm passionate about using these skills to drive innovation and solve real-world
 - ⏰ Time Management
 - 🌟 Optimistic
 - 💪 Self-Confidence
--     Great Listener
 
 ## Education
 
