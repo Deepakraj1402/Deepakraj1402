@@ -22,6 +22,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 - 🌟 Optimistic
 - 💪 Self-Confidence
 
+  
 ## Education
 
 - 🎓 MCA at VIT, 2022-2024, CGPA: 7.25(Current)
