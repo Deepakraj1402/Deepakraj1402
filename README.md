@@ -2,11 +2,13 @@
 
 I'm an enthusiast in the world of technology with a diverse skill set that includes:
 
+- Artificial Intelligence
 - Python Programming
 - Java Programming
 - Web Development with HTML, CSS, and JavaScript
 - Database Management - SQL
 - Big Data Analysis
+- Deep Learning
 
 I'm passionate about using these skills to drive innovation and solve real-world challenges. Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
@@ -19,7 +21,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 - ⏰ Time Management
 - 🌟 Optimistic
 - 💪 Self-Confidence
-- Great Listener
+-     Great Listener
 
 ## Education
 
@@ -32,6 +34,8 @@ I'm passionate about using these skills to drive innovation and solve real-world
 
 - 📜 "Cyber Forensics" - Great Learning.
 - 📜 "Python(Basic)" - HackerRank.
+- 📜 "Fundamentals of Deep Learning" - Nvidia.
+- 📜 "Linux Certifictaion" - Great Learning.
 
 ## Projects
 
