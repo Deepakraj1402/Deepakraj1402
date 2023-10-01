@@ -13,7 +13,7 @@ I'm an enthusiast in the world of technology with a diverse skill set that inclu
 
 I'm passionate about using these skills to drive innovation and solve real-world challenges. Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakraj1402&label=Profile%20views&color=0e75b6&style=flat&bg_color=000000" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakraj1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ## Soft Skills
 
@@ -22,7 +22,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 - 💪 Self-Confidence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakraj1402&show_icons=true&locale=en" alt="GitHub Stats&bg_color=000000"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakraj1402&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Here are some of my projects:
 - Hindi
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakraj1402&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="deepakraj1402" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakraj1402&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="deepakraj1402" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
