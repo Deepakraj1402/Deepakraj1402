@@ -26,8 +26,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 </p>
 
 <p align="center">
-  <img src="![GitHub Stats](https://camo.githubusercontent.com/855a1eed3f97618c6da7aa116a386ff28d25380d0cce991a922da57508f8fcff/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d47756e6173656b6172616e2d313433267468656d653d7368616465732d6f662d707572706c6526686964655f626f726465723d66616c7365)
-" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402&background=000000&fire=DD2727&sideLabels=000000&currStreakLabel=DD2727&currStreakNum=DD2727&sideNums=DD2727&dates=000000&ring=DD2727&currStreakDay=DD2727&longestStreakLabel=DD2727&longestStreakNum=DD2727" alt="GitHub Streak" />
 </p>
   
 ## Education
