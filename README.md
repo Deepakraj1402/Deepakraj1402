@@ -13,7 +13,7 @@ I'm an enthusiast in the world of technology with a diverse skill set that inclu
 
 I'm passionate about using these skills to drive innovation and solve real-world challenges. Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakraj1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakraj1402&label=Profile%20views&color=0e75b6&style=flat&bg_color=000000" alt="Profile Views" /> </p>
 
 ## Soft Skills
 
@@ -22,11 +22,11 @@ I'm passionate about using these skills to drive innovation and solve real-world
 - 💪 Self-Confidence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakraj1402&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakraj1402&show_icons=true&locale=en" alt="GitHub Stats&bg_color=000000"  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402&bg_color=000000" alt="GitHub Streak" />
 </p>
   
 ## Education
