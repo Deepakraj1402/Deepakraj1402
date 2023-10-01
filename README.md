@@ -26,7 +26,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402&background=000000" alt="GitHub Streak" />
 </p>
   
 ## Education
@@ -72,8 +72,6 @@ Here are some of my projects:
   <a href="https://linkedin.com/in/deepakraje" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-<p>
   <a href="mailto:deepaknarup@gmail.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
