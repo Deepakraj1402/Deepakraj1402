@@ -28,10 +28,6 @@ I'm passionate about using these skills to drive innovation and solve real-world
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402" alt="GitHub Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakraj1402&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="deepakraj1402" />
-</p>
   
 ## Education
 
@@ -66,6 +62,10 @@ Here are some of my projects:
 - Tamil
 - English
 - Hindi
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakraj1402&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="deepakraj1402" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
