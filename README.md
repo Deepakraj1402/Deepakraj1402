@@ -14,7 +14,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakraj1402&show_icons=true)
 
 ## Soft Skills
 
