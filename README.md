@@ -26,7 +26,7 @@ I'm passionate about using these skills to drive innovation and solve real-world
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402&bg_color=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakraj1402&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="GitHub Streak" />
 </p>
   
 ## Education
