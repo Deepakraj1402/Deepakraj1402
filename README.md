@@ -48,8 +48,6 @@ I'm passionate about using these skills to drive innovation and solve real-world
 Here are some of my projects:
 
 1. [Online Dessert Management System](#) - Developed using HTML, CSS, JavaScript, PHP, and MySQL.
-2. [Leukemia Diagnosis using Deep Learning Approach](#) - Utilized Python and Machine Learning.
-3. [Encrypting Images using Triple DES encryption and ECDSA](#) - Created using Python and Networking.
 
 ## Hobbies
 
